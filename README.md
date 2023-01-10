@@ -1,69 +1,85 @@
-# 👋 Hey!
+# 👋 Hi there!
 
-I'm Adriana Leites, curious designer with great experience in graphic & web design, branding and creative direction, currently venturing into the fields of front-end development. I’m a continuous learner with a strong eye for detail.
+<br>
 
-📚 Being graduated both in Digital Arts & Multimedia and Communication Design by [ESAD](https://esad.pt/) Matosinhos, I recently finished a [Front-end Development course](https://edit.com.pt/formacao/curso-frontend-development-porto/) at EDIT. Porto in 2019. And I'm currently improving and learning new skills at [SuperHi](https://www.superhi.com/), commited to the following online courses:
-- [ ] [Command Line for Creatives](https://www.superhi.com/courses/command-line-for-creatives)
-- [ ] [Intro to User Experience Design](https://www.superhi.com/courses/introduction-to-user-experience-design)
-- [ ] [JavaScript for Designers](https://www.superhi.com/courses/javascript-for-designers)
-- [ ] [Math for Creatives](https://www.superhi.com/courses/math-for-creatives)
-- [ ] [Advanced CSS + JavaScript](https://www.superhi.com/courses/advanced-css-and-javascript)
-- [ ] [Creative Coding](https://www.superhi.com/courses/creative-coding)
-- [ ] [WordPress](https://www.superhi.com/courses/wordpress)
+**I’m Adriana Leites, digital designer & front-end developer from Portugal, with a strong eye for detail and a curious mind. And I'm currently looking for full-time job opportunities**
 
-## 👩🏻‍💻 Hire me
+---
 
-I'm currently available for freelance works and open to job opportunities as web designer, UX/UI designer, digital designer, brand designer and/or junior front-end developer.
+While I'm developing my personal website, you can check my portfolio in this [Notion page](https://adriana-leites.notion.site/adriana-leites/adriana-leites-8594de1644a14d919e53aab803e67655).
 
-Check out my 📎 [CV](https://drive.google.com/file/d/1gBgTE6KkJc6p7wvoirnA1YvMiszp8VpT/view), my 🖥 [digital design portfolio](https://drive.google.com/file/d/1yVb3Jqj5GNgcVtgApV3KiF2sFpazWUL4/view) (only as pdf, at the moment) and my ✏️ [Behance portfolio](https://www.behance.net/adrianaleites) (mostly graphic design). 
+<br>
 
-💌 Reach me by [email](adrianaalvesleites@gmail.com) or through [Twitter](https://twitter.com/adrianaleites), if you want to hire me, to start a collaboration or to just say hey!
+## Here are some of my recent projects
 
-## 🔎 Discover more
+- **Karaka** · 2022 · UX/UI Design + Web Development ⟶ [Visit website](http://atelierkaraka.com/)
+- **Luscofia** · 2022 · UX/UI Design + Web Development ⟶ [Visit website](https://luscofia.com/)
+- **Susana Esteves Pinto** · 2022 · Brand Design + UX/UI Design + Web Development ⟶ [Visit website](https://susanaestevespinto.com/)
+- **Brava** · 2022 · UX/UI Design + Web Development ⟶ [Visit website](https://bybrava.pt/)
 
-If you want to know more, I dropped some curiosities about me bellow:
+<br>
 
-🥘 I love to cook and experiment new recipes.
+## Discover more about me
 
-✏️ I love to take part in all phases of the design process, from the research, first brainstormings, concept, first sketches, first design iterations, to the final design and implementation.
+**With a strong eye for detail and a curious mind, I’m currently specialising in digital design and front-end development, with a focus on web accessibility.**
 
-🦉 My favourite animal is the owl.
+My journey started back in 2011, when I was finishing my degree in Digital Arts & Multimedia and I was invited by my teacher [Tiago Pedras](https://tiagopedras.com/) to work at his web design studio under his mentoring. 
 
-💼 I co-founded ex design and animation studio [Snack](https://www.instagram.com/snackstudio/) alongside my brother [Nuno Leites](https://nunoleites.com/) and my friend [Carlos Meinedo](https://www.behance.net/carlosmeinedo), in 2014.
+In September 2012, I decided to complement my studies with a degree in Communication Design. And right after that, in 2014, I co-founded a design and animation studio, [Snack Studio](https://behance.net/welovesnack), alongside my brother [Nuno Leites](https://nunoleites.com/) and my friend [Carlos Meinedo](https://www.behance.net/carlosmeinedo), that we ran until 2017.
 
-🌱 I love to take care of my plants.
+In 2018, I decided to go back to my old passion, the web field, and invested in upgrading my skills and learning new ones. In 2019, I finished a Front-end Development course at [EDIT.](https://weareedit.io/) and I started working as freelance designer and developer, helping small businesses and creatives telling their own stories through custom branding and tailor-made websites. I also worked as UI designer and front-end developer at [esad—idea](https://esadidea.pt/) during some months of 2021.
 
-🏠 I'm currently living in Aver-O-Mar, Póvoa de Varzim, a coastal town in Northern Portugal.
+**In my design/development process, I highly value research, usability, consistency, quality and iteration. And I believe in collaborating and sharing as a mean to grow and achieve great results.**
 
-⚫️ I'm co-founder and proud member of the communication team of [FIS · Festival Internacional de Solos](http://fis.pt/), since 2015.
+Apart from my design career, I co-founded and got involved in two cultural projects: [FIS · Festival Internacional de Solos](http://fis.pt/) (2015 – 2021) and Marácula – Cultural Association (2013 – 2018).
 
-👩‍🚀 I'm fascinated by the outer space imagery.
+In my free time, I enjoy spending quality time with family and friends, taking care of my plants, cooking, playing board games, practicing Yoga, [collecting honest and meaningful quotes](https://www.instagram.com/explore/tags/adrianaquotescollector/) and learning new things.
 
-🧀 I can't live without cheese.
+<br>
 
-💻 I have an old passion for web, code and tech and I find coding fascinating and fun.
+<img src="https://adriana-leites.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe16871b6-d800-4e98-bb20-8419e8b35ce2%2Fme.jpg?id=39949b47-3ea8-4bd6-bec4-9be44b384b38&table=block&spaceId=0d9d92cd-5d21-4a67-9a1d-55113203f900&width=890&userId=&cache=v2" alt="drawing" width="350"/>
 
-📖 I'm struggling to gain the habit of reading books. At least, I usually read lots of articles about various subjects on the web. 
+### Some curiosities about me:
 
-✍️ I'm a big fan of [Tobias Van Schneider writing](https://vanschneider.com/blog).
+🌞  I’m a sun seeker and nature lover.
 
-♻️ I've been making some eco-conscious changes in my life style for a more sustainable future. Still a long way to go.
+🏠  I'm currently living in Aver-O-Mar, Póvoa de Varzim, a coastal town in Porto area.
 
-💪 I'm a strong advocate of designing with and for real content.
+🦉  I have a thing for owl shaped objects.
 
-📌 I love honest and meaningful quotes.
+🧘‍♀️  I started a meditation routine in March 2022 with the help of [Medito app](https://meditofoundation.org/medito-app).
 
-🔑 I believe good storytelling and consistency are key principles in design.
+✏️  I'm a strong advocate of designing with and for real content.
 
-❤️ I trully love the work of digital branding agency [Bürocratik](https://www.burocratik.com/). 
+🔭  I'm fascinated by the outer space imagery.
 
-🎧 Although I like and listen various music genres, there's a huge chance you can catch me listening to rock music.
+🍷  I really enjoy a glass of quality Port wine.
 
-💬 I believe a strong and honest relationship between designer and client brings great advantages to the creative process and the final product.
+🎭  I was part of an amateur theatre group at high school and it had a great impact on who I am today.
 
-🔮 In my spare time, you can find me playing [World of Warcraft Classic](https://worldofwarcraft.com/en-us/wowclassic) as a Resto Shaman.
+🛍️  I'm saying no to fast fashion and trying to buy more consciously, since 2020.
 
-🌐 I believe in collaborating and sharing as a mean to grow and achieve great results.
+<br>
+
+## Get in touch
+
+I'm available for full-time job opportunities or just for a nice chat. Feel free to get in touch!
+
+💌  [E-mail](mailto:adrianaalvesleites@gmail.com)
+
+📎  [Resume](https://drive.google.com/file/d/1gBgTE6KkJc6p7wvoirnA1YvMiszp8VpT/view)
+
+🖥  [Portfolio](https://adriana-leites.notion.site/adriana-leites/adriana-leites-8594de1644a14d919e53aab803e67655)
+
+💼  [LinkedIn](https://www.linkedin.com/in/adrianaleites/)
+
+✏️  [Behance](https://www.behance.net/adrianaleites)
+
+📸  [Instagram](https://www.instagram.com/adrianaleites/)
+
+🐦  [Twitter](https://twitter.com/adrianaleites)
+
+<br>
 
 ***
 
